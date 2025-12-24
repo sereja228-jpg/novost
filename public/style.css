@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background: #f9f9f9;
+  color: #333;
+}
+
+h3 {
+  color: #1976d2;
+  border-bottom: 2px solid #1976d2;
+  padding-bottom: 5px;
+}
+
+dl {
+  margin: 20px 0;
+}
+
+dt {
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 1.1em;
+}
+
+dd {
+  margin: 8px 0 0 20px;
+  line-height: 1.5;
+  color: #555;
+}
+
+.error {
+  color: red;
+}
+
+.footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #888;
+  text-align: center;
+}
+
